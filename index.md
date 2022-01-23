@@ -1,5 +1,3 @@
-## openrvs.org
-
 Open-source projects for Tom Clancy's Rainbow Six 3: Raven Shield.
 
 ### Get the client
