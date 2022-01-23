@@ -14,7 +14,7 @@ Contribute to the stats page on [GitHub](https://github.com/willroberts/openrvs-
 
 ### See all available servers
 
-Since OpenRVS 1.5, servers self-register with a registry, which provides an auto-updated server list at [https://openrvs.org/servers](https://openrvs.org/servers).
+Since OpenRVS 1.5, servers self-register with a registry, which provides an automatically-updated server list at [https://openrvs.org/servers](https://openrvs.org/servers).
 
 Contribute to the registry on [GitHub](https://github.com/willroberts/openrvs-registry).
 
