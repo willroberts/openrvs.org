@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## openrvs.org
 
-You can use the [editor on GitHub](https://github.com/willroberts/openrvs.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Open-source projects for Tom Clancy's Rainbow Six 3: Raven Shield.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Get the client
 
-### Markdown
+Download it from [ModDB](https://www.moddb.com/games/tom-clancys-rainbow-six-3-raven-shield/downloads/raven-shield-openrvs-patch-v15) and follow the instructions there.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contribute to the client and server on [GitHub](https://github.com/OpenRVS-devs/OpenRVS).
 
-```markdown
-Syntax highlighted code block
+### See currently active servers
 
-# Header 1
-## Header 2
-### Header 3
+There is a server list with player stats at https://openrvs.org/live.
 
-- Bulleted
-- List
+Contribute to the stats page on [GitHub](https://github.com/willroberts/openrvs-stats).
 
-1. Numbered
-2. List
+### See all available servers
 
-**Bold** and _Italic_ and `Code` text
+Since OpenRVS 1.5, servers self-register with a registry, which provides an auto-updated server list at https://openrvs.org/servers.
 
-[Link](url) and ![Image](src)
-```
+Contribute to the registry on [GitHub](https://github.com/willroberts/openrvs-registry).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Talk to game servers over UDP
 
-### Jekyll Themes
+Game servers communicate over UDP using a "beacon" protocol.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/willroberts/openrvs.org/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contribute to the beacon library on [GitHub](https://github.com/willroberts/openrvs-beacon).
