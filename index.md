@@ -8,13 +8,13 @@ Contribute to the client and server on [GitHub](https://github.com/OpenRVS-devs/
 
 ### See currently active servers
 
-There is a server list with player stats at https://openrvs.org/live.
+There is a server list with player stats at [https://openrvs.org/live](https://openrvs.org/live).
 
 Contribute to the stats page on [GitHub](https://github.com/willroberts/openrvs-stats).
 
 ### See all available servers
 
-Since OpenRVS 1.5, servers self-register with a registry, which provides an auto-updated server list at https://openrvs.org/servers.
+Since OpenRVS 1.5, servers self-register with a registry, which provides an auto-updated server list at [https://openrvs.org/servers](https://openrvs.org/servers).
 
 Contribute to the registry on [GitHub](https://github.com/willroberts/openrvs-registry).
 
