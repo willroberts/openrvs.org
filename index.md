@@ -1,5 +1,3 @@
-.
-
 ### Get the client
 
 Download it from [ModDB](https://www.moddb.com/games/tom-clancys-rainbow-six-3-raven-shield/downloads/raven-shield-openrvs-patch-v15) and follow the instructions there.
