@@ -1,10 +1,10 @@
 .
 
-### Get the client
+### Download OpenRVS for clients and servers
 
-Download it from [ModDB](https://www.moddb.com/games/tom-clancys-rainbow-six-3-raven-shield/downloads/raven-shield-openrvs-patch-v15) and follow the instructions there.
+Get the latest release from [Github](https://github.com/OpenRVS-devs/OpenRVS/releases), and follow the instructions there.
 
-See the client and server source code on [GitHub](https://github.com/OpenRVS-devs/OpenRVS).
+See the UnrealScript source code on [GitHub](https://github.com/OpenRVS-devs/OpenRVS).
 
 ### See all available servers
 
